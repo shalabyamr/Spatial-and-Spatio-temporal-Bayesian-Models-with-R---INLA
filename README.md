@@ -1,6 +1,6 @@
 ![Textbook.jpg](Textbook.jpg)
 
-# Spatial-and-Spatio-temporal-Bayesian-Models-with-R---INLA
+# Spatial and Spatio-temporal Bayesian Models with R-INLA
 Textbook Summary and reworked proofs for the textbook:
 **_Spatial and Spatio-temporal Bayesian Models with R - INLA_**
 
