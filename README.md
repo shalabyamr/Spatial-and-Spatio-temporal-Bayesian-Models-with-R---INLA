@@ -4,9 +4,14 @@
 Textbook Summary and reworked proofs for the textbook:
 **_Spatial and Spatio-temporal Bayesian Models with R - INLA_**
 
-_Spatial and Spatio-Temporal Bayesian Models with R-INLA provides a much needed, practically oriented & innovative presentation of the combination of Bayesian methodology and spatial statistics. The authors combine an introduction to Bayesian theory and methodology with a focus on the spatial and spatio­-temporal models used within the Bayesian framework and a series of practical examples which allow the reader to link the statistical theory presented to real data problems. The numerous examples from the fields of epidemiology, biostatistics and social science all are coded in the R package R-INLA_, which has proven to be a valid alternative to the commonly used Markov Chain Monte Carlo simulations
-Publisher: Wiley
-ISBN: 9781118326558
+Spatial and Spatio-Temporal Bayesian Models with R-INLA provides a much-needed, practically oriented and innovative presentation combining Bayesian methodology and spatial statistics. 
+
+The authors formulate an introduction to Bayesian theory and methodology with a focus on the spatial and spatio-temporal models used within the Bayesian framework and a series of practical examples which allow the reader to link the statistical theory presented to real data problems. 
+
+The numerous examples from the fields of epidemiology, biostatistics and social science all are coded in the R package R-INLA, which has proven to be a valid alternative to the commonly used Markov Chain Monte Carlo simulations
+
+**Publisher: Wiley
+ISBN: 9781118326558**
 
 [Chapter 1 to 3 Spatio-Temporal Models.pdf](Chapters/Chapter%201%20to%203%20Spatio-Temporal%20Models.pdf)
 
