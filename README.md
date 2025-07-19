@@ -12,9 +12,7 @@ ISBN: 9781118326558
 
 [Chapter 4 Bayesian Computing.pdf](Chapters/Chapter%204%20Bayesian%20Computing.pdf)
 
-[Chapter 4 Bayesian Computing copy.pdf](Chapters/Chapter%204%20Bayesian%20Computing%20copy.pdf)
-
-[Chapter 5 Bayesian Regression.pdf](Chapters/Chapter%205%20Bayesian%20Regression.pdf)
+[Chapter 5 Bayesian Computing copy.pdf](Chapters/Chapter%204%20Bayesian%20Computing%20copy.pdf)
 
 [Chapter 6 Advanced Models.pdf](Chapters/Chapter%206%20Advanced%20Models.pdf)
 
