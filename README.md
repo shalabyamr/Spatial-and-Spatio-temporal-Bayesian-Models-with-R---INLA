@@ -12,11 +12,11 @@ ISBN: 9781118326558
 
 [Chapter 4 Bayesian Computing.pdf](Chapters/Chapter%204%20Bayesian%20Computing.pdf)
 
-[Chapter 5 Bayesian Computing copy.pdf](Chapters/Chapter%204%20Bayesian%20Computing%20copy.pdf)
+[Chapter 5 Bayesian Computing copy.pdf](Chapters/Chapter%204%20Bayesian%20Computing.pdf)
 
 [Chapter 6 Advanced Models.pdf](Chapters/Chapter%206%20Advanced%20Models.pdf)
 
-[chapter 7 Spatio-Tempral Models.pdf](Chapters/chapter%207%20Spatio-Tempral%20Models.pdf)
+[chapter 7 Spatio-Temporal Models.pdf](Chapters/Chapter%207%20Spatio-Temporal%20Models.pdf)
 
 [Chapter 8 Advanced Models.pdf](Chapters/Chapter%208%20Advanced%20Models.pdf)
 
